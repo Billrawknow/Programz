@@ -22,7 +22,7 @@ This project has no major prerequisites other than a modern web browser.
 
 ### Installation
 Clone the repo:
-```sh
+
 git clone https://github.com/Billrawknow/Programz.git
 
 Open the index.html file in your web browser.
