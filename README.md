@@ -43,6 +43,6 @@ Contributions to enhance this login form are welcomed. Following are the steps t
 Distributed under the MIT License. See LICENSE for more information.
 
 ### Contact
-My email - bildadronoh@gmail.com
+My email: bildadronoh@gmail.com
 
 Project Link: https://github.com/Billrawknow/Programz.git
