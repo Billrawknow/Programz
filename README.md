@@ -46,3 +46,7 @@ Distributed under the MIT License. See LICENSE for more information.
 My email: bildadronoh@gmail.com
 
 Project Link: https://github.com/Billrawknow/Programz.git
+
+Twitter:https://twitter.com/RawknowCheru
+
+LinkedIn: https://www.linkedin.com/in/bildad-ronoh-20167719a/
